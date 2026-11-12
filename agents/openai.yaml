@@ -1,0 +1,6 @@
+# OpenAI Codex UI metadata（官方字段：interface / dependencies）
+# 字段规范见 https://github.com/openai/skills 的 skill-creator/references/openai_yaml.md
+interface:
+  display_name: "技能工坊"
+  short_description: "给 AI 技能做体检、创作与审核的中文工具链，五条流程"
+  default_prompt: "用 $skill-smith 帮我检查这个技能是否符合规范"
